@@ -4,4 +4,4 @@
 
 ### Ajob-Recommender is a system that predicts your job based on your skills, educations and experiences.
 
-####  This organization contains source codes for my bachelor thesis project. [Click here](../README.md) for more details about the project structure
+####  This organization contains source codes for my bachelor thesis project. [Click here](https://github.com/AJob-Recommender/.github/blob/main/README.md) for more details about the project structure
