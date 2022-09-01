@@ -1,6 +1,6 @@
 # Ajob Recommender
 
-### Ajob Recommender is my bachelor thesis at Shahid Beheshti University.
+### Ajob Recommender is [my](https://github.com/amirhallaji) bachelor thesis at Shahid Beheshti University.
 
 <p align="center">
       <img src=".img/../profile/.img/structure.png" />
