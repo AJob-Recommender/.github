@@ -1,6 +1,7 @@
 # Ajob Recommender
 
 ### Ajob Recommender is [my](https://github.com/amirhallaji) bachelor thesis at Shahid Beheshti University.
+[This video](https://www.aparat.com/v/kuhl6) is a brief presentation of this project.
 
 <p align="center">
       <img src=".img/../profile/.img/structure.png" />
